@@ -9,7 +9,7 @@ from random import randrange, choice
 pygame.init()
 pygame.mixer.init()
 
-
+#teste
 diretorio_principal = os.path.dirname(__file__)
 diretorio_imagens = os.path.join(diretorio_principal, "Sprites Dino")
 diretorio_sons = os.path.join(diretorio_principal, "Sons Dino")
